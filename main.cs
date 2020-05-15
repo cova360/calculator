@@ -35,7 +35,13 @@ namespace Calculator
         {
             newDivision = number1 / number2;
             return newDivision;
-        }   
+        }
+
+        private int multiplicacion(int numA, int numB)
+        {
+            var resultado = numA * numB;
+            return resultado;
+        }
 
     }
 
