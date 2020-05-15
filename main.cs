@@ -30,6 +30,12 @@ namespace Calculator
             return Division;
         }
 
+             private int NewDivision(int number1, int number2)
+        {
+            newDivision = number1 / number2;
+            return newDivision;
+        }   
+
     }
 
 }
