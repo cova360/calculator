@@ -18,18 +18,6 @@ namespace Calculator
            
         }
 
-        private int multiplicacion(int number1, int number2)
-        {
-            resultado = number1 * number2;
-            return resultado;
-        }
-
-        private int Division(int number1, int number2)
-        {
-            division = number1 / number2;
-            return division;
-        }
-
 
     }
 
