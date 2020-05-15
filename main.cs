@@ -24,6 +24,11 @@ namespace Calculator
             return resultado;
         }
 
+        private int Division(int number1, int number2)
+        {
+            Division = number1 / number2;
+            return Division;
+        }
 
     }
 
